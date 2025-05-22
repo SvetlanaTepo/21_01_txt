@@ -78,3 +78,39 @@ performance of our programs.
  # 18.03 
  As there was upcoming midterm, the class was mainly used to discuss and solve some problems, while using all the knowledge that we gained during several weeks. 
  The problems were mainly based on basic function and very similar to homework 1 problems.
+
+ # 20.03 
+ We wrote our midterm that was consisting of 5 problems related to topics we had learned throughout the first half of the semester.
+
+ # 25.03
+ We discussed the problems from the midterm and solved them together.
+
+ # 27.03
+ On March 27 we talked about FSM and wrote a program for traffic light simulation using learned method.
+
+ # 01.04
+ During April 1 class we learned a new topics - structures. We talked about their properties and applicatons in code.
+
+ # 03.04
+We learned about file connections in C, the concept of .h and .c files, their properties, purposes and how they work.
+
+# 08.04
+We continued last class' topic of file connections and writing a library and continued working on fucntions in our self-made string library.
+
+# 10.04
+We finished the file connections topic and discussed the FSM again as our homework was related to it.
+
+# 15.04
+We discussed our final project ideas with our program chair, Ms.Satenik and helped each other to better define the scope and requirements.
+
+# 17.04
+We talked about building our own libraries and how to implement structures and pointers to structures in them.
+
+# 29.04 
+We discussed lists, how they are working and how to deal with them.
+
+# 06.05
+During May 6 class we learned about various sorting algorithms, such as bubble sort, selection sort, insertion sort, etc.
+
+# 13.05
+We continued the topic of lists and their implementation. Unfortunately, we didn't manage to cover the final exam topics.
